@@ -5,12 +5,6 @@ The system validates user inputs, dynamically renders resumes, and provides acti
 
 ---
 
-## 🚀 Live Demo
-
-🔗 **https://smart-resume-intelligence.onrender.com**
-
----
-
 ## ✨ Key Features
 
 - Resume generation from structured user input
